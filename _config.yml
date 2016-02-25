@@ -1,0 +1,14 @@
+layout_spectrum: 0.4617021
+typography_spectrum: 0.3255319
+color:
+  saturation: 0.6942936
+  lightness: 0.8564099
+  brandStrength: 0.1750695
+  rhythmicContrast: 0.2323858
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: S7L Pro
