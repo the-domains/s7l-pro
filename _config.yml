@@ -1,14 +1,29 @@
-layout_spectrum: 0.4617021
-typography_spectrum: 0.3255319
-color:
-  saturation: 0.6942936
-  lightness: 0.8564099
-  brandStrength: 0.1750695
-  rhythmicContrast: 0.2323858
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
 name: S7L Pro
+favicon: null
+layout_spectrum: 0.4617021
+typography_spectrum: 0.47956
+title: 'News, Articles, Tutorial, Reviews'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#06070b'
+    - '#6890d5'
+    - '#314770'
+    - '#374ff9'
+    - '#9bf2fc'
+  brandStrength: 0.1875
+  lightness: 0.8564099
+  saturation: 0.6875
+  rhythmicContrast: 0.2323858
+purpose: []
