@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[News, Articles, Tutorial, Reviews]]></title>
+        <description><![CDATA[News, Articles, Tutorial, Reviews]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 27 Feb 2016 20:13:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Final Cut Pro X, Motion 5 and Compressor updates arrived! - motionVFX Blog]]></title>
+            <description><![CDATA[<article><h1>The Final Cut Pro X, Motion 5 and Compressor updates arrived! - motionVFX Blog</h1><p>Apple just released the updates for their most important video applications. FCPX and Motion 5 got some of their bugs fixed and some new Pro Video formats are now available for use. The fixes seem minor but, in the overall experience they may make using the apps much more pleasant and efficient.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4591825236a813844544d47beb88bfbf3ad48783.jpg"></article>]]></description>
+            <link>https://www.motionvfx.com/mblog/the_final_cut_pro_x_motion_5_and_compressor_updates_arrived,p4288.html</link>
+            <guid isPermaLink="false">9e7ba70b-9900-4d77-b5c4-67790cc4f070</guid>
+            <pubDate>Sat, 27 Feb 2016 20:13:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
